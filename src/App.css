@@ -1,0 +1,54 @@
+#apptitle{
+    font-family: cursive;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-thickness: auto;
+    text-align: left;
+    padding-left: 5%;
+    line-height: 20px;
+}
+
+.App {
+    text-align: center;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+.menu {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: 1px solid #b3c1b1;
+    box-sizing: border-box;
+    background-color: #b3c1b1;
+  }
+
+.links {
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+    -webkit-tap-highlight-color: transparent;
+
+    flex: 1;
+    padding: 40px;
+    padding-top: 20px;
+    border: none;
+    background-color: #b3c1b1;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+}
+
+.links:active {
+    outline: none;
+}
+
+.links:hover {
+    color: #eeeeee;
+}
