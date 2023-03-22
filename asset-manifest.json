@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homebread/static/css/main.dc4fd764.css",
+    "main.js": "/homebread/static/js/main.333e2742.js",
+    "static/js/787.6a733163.chunk.js": "/homebread/static/js/787.6a733163.chunk.js",
+    "index.html": "/homebread/index.html",
+    "main.dc4fd764.css.map": "/homebread/static/css/main.dc4fd764.css.map",
+    "main.333e2742.js.map": "/homebread/static/js/main.333e2742.js.map",
+    "787.6a733163.chunk.js.map": "/homebread/static/js/787.6a733163.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4fd764.css",
+    "static/js/main.333e2742.js"
+  ]
+}
