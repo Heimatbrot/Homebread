@@ -2,7 +2,7 @@
 This is just an App i try stuff on, maybe one day it will have a specific purpose. But now its just a practicing app.
 
 ## Demo
-You can try the game live at: https://heimatbrot.github.io/homebread
+You can try the code live at: https://heimatbrot.github.io/homebread
 
 ## Getting Started
 To get a local copy up and running, follow these steps:
