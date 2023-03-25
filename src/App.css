@@ -35,9 +35,10 @@
     -webkit-tap-highlight-color: transparent;
 
     flex: 1;
-    padding: 20px;
-    padding-top: 20px;
+    padding-top: 23px;
+    padding-bottom: 25px;
     border: none;
+    text-align: center;
     background-color: #b3c1b1;
     font-size: 30px;
     font-weight: bold;
