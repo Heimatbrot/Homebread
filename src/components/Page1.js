@@ -5,6 +5,7 @@ function Page1() {
     <div>
       <h1>This is Page 1</h1>
       <p>Welcome to Page 1</p>
+      <p>test</p>
     </div>
   );
 }
