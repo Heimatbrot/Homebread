@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/homebread/static/css/main.df2e4046.css",
-    "main.js": "/homebread/static/js/main.abb25912.js",
+    "main.js": "/homebread/static/js/main.5548405e.js",
     "static/js/787.6a733163.chunk.js": "/homebread/static/js/787.6a733163.chunk.js",
     "index.html": "/homebread/index.html",
     "main.df2e4046.css.map": "/homebread/static/css/main.df2e4046.css.map",
-    "main.abb25912.js.map": "/homebread/static/js/main.abb25912.js.map",
+    "main.5548405e.js.map": "/homebread/static/js/main.5548405e.js.map",
     "787.6a733163.chunk.js.map": "/homebread/static/js/787.6a733163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df2e4046.css",
-    "static/js/main.abb25912.js"
+    "static/js/main.5548405e.js"
   ]
 }
